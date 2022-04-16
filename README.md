@@ -10,6 +10,29 @@ Kalender
 Aplikasi ini menggunakan API kalender. Dalam aplikasi ini user dapat mencatat kegiatan pada hari tertentu dan dapat diatur alarm ketika kegiatan telah selesai.
 
 # Daftar Package
+"@react-native-async-storage/async-storage": "~1.15.0", </br>
+"@react-native-community/datetimepicker": "4.0.0", </br>
+"@react-navigation/native": "^6.0.10", </br>
+"@react-navigation/stack": "^6.2.1", </br>
+"expo": "~44.0.0", </br>
+"expo-calendar": "~10.1.0", </br>
+"expo-localization": "~12.0.0", </br>
+"expo-status-bar": "~1.2.0", </br>
+"expo-updates": "~0.11.6", </br>
+"immer": "^9.0.12", </br>
+"moment": "^2.29.2", </br>
+"react": "17.0.1", </br>
+"react-dom": "17.0.1", </br>
+"react-native": "0.64.3", </br>
+"react-native-calendar-strip": "^2.2.5", </br>
+"react-native-calendars": "^1.1282.0", </br>
+"react-native-gesture-handler": "~2.1.0", </br>
+"react-native-get-random-values": "^1.7.2", </br>
+"react-native-modal-datetime-picker": "^13.1.2", </br>
+"react-native-safe-area-context": "3.3.2", </br>
+"react-native-web": "0.17.1", </br>
+"uuid": "^8.3.2", </br>
+"zustand": "^3.7.2" </br>
 
 # Cara install aplikasi
 1. Download melalui github ini dengan klik aplikasi RD-RianAndriWaskito-119140030-Tugas Individu 4 </br>
